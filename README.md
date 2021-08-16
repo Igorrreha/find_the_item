@@ -1,1 +1,1 @@
-# game_for_amaya
+Especially for AmayaGames.
