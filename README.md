@@ -1,1 +1,1 @@
-Especially for AmayaGames.
+Especially for AmayaSoft.
