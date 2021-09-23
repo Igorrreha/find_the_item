@@ -1554,10 +1554,6 @@ MonoBehaviour:
   - _cellsCount: 3
   - _cellsCount: 6
   - _cellsCount: 9
-  - _cellsCount: 12
-  - _cellsCount: 2
-  - _cellsCount: 7
-  - _cellsCount: 4
   OnLevelChanging:
     m_PersistentCalls:
       m_Calls:
