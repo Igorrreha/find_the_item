@@ -1,1 +1,1 @@
-Especially for AmayaSoft.
+
